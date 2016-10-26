@@ -1,0 +1,15 @@
+D:\Работа Сойма\Projects\RussianPostBarcode-master\WebBarcodeOld\bin\WebBarcodeOld.dll.config
+D:\Работа Сойма\Projects\RussianPostBarcode-master\WebBarcodeOld\bin\WebBarcodeOld.dll
+D:\Работа Сойма\Projects\RussianPostBarcode-master\WebBarcodeOld\bin\WebBarcodeOld.pdb
+D:\Работа Сойма\Projects\RussianPostBarcode-master\WebBarcodeOld\obj\Release\WebBarcodeOld.csprojResolveAssemblyReference.cache
+D:\Работа Сойма\Projects\RussianPostBarcode-master\WebBarcodeOld\obj\Release\WebBarcodeOld.dll
+D:\Работа Сойма\Projects\RussianPostBarcode-master\WebBarcodeOld\obj\Release\WebBarcodeOld.pdb
+D:\Работа Сойма\Projects\RussianPostBarcode-master\WebBarcodeOld\bin\Microsoft.Web.Infrastructure.dll
+D:\Работа Сойма\Projects\RussianPostBarcode-master\WebBarcodeOld\bin\RBBarcode.dll
+D:\Работа Сойма\Projects\RussianPostBarcode-master\WebBarcodeOld\bin\System.Web.Helpers.dll
+D:\Работа Сойма\Projects\RussianPostBarcode-master\WebBarcodeOld\bin\System.Web.Mvc.dll
+D:\Работа Сойма\Projects\RussianPostBarcode-master\WebBarcodeOld\bin\System.Web.Razor.dll
+D:\Работа Сойма\Projects\RussianPostBarcode-master\WebBarcodeOld\bin\System.Web.WebPages.Deployment.dll
+D:\Работа Сойма\Projects\RussianPostBarcode-master\WebBarcodeOld\bin\System.Web.WebPages.dll
+D:\Работа Сойма\Projects\RussianPostBarcode-master\WebBarcodeOld\bin\System.Web.WebPages.Razor.dll
+D:\Работа Сойма\Projects\RussianPostBarcode-master\WebBarcodeOld\bin\RBBarcode.pdb
